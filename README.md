@@ -3,6 +3,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20AR's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <br>
 
+### 👋  Hi there! 👋 <br> 
+I'm a passionate machine learning engineer with 2 years of experience in the field. 🚀<br>
+Also, I have experience 4 years of Android development.<br>
+I have honed my skills in various domain, but I have a special fondness for machine learning.<br>
+<br>
+If you want to get in touch, don't hesitate to send a message!✨<br><br>
+
+## 📫Contact 📫
+<div align="left">
+  <a href="mailto:sar10320@naver.com">
+        <img src="https://img.shields.io/badge/NaverMail-03CF5D?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  </a>
+  <a href="https://www.linkedin.com/in/areumsim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div><br><br>
+
+
+
 ## 🔨Tech Stack 🔨
 
 <div style="display:flex; flex-direction:row;">
@@ -35,17 +55,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <br>
-</div><br><br>
-
-## 📫Contact 📫
-<div align="left">
-  <a href="mailto:sar10320@naver.com">
-        <img src="https://img.shields.io/badge/NaverMail-03CF5D?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-  </a>
-  <a href="https://www.linkedin.com/in/areumsim">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
 </div><br><br>
 
 <br><br>
